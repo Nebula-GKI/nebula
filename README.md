@@ -1,10 +1,10 @@
 # Nebula
 
-[![Build Status](https://travis-ci.org/bitmage/Nebula.jl.svg?branch=master)](https://travis-ci.org/bitmage/Nebula.jl)
+[![Build Status](https://travis-ci.org/Nebula-GKI/Nebula.jl.svg?branch=master)](https://travis-ci.org/Nebula-GKI/Nebula.jl)
 
-[![Coverage Status](https://coveralls.io/repos/bitmage/Nebula.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/bitmage/Nebula.jl?branch=master)
+[![Coverage Status](https://coveralls.io/repos/Nebula-GKI/Nebula.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/Nebula-GKI/Nebula.jl?branch=master)
 
-[![codecov.io](http://codecov.io/github/bitmage/Nebula.jl/coverage.svg?branch=master)](http://codecov.io/github/bitmage/Nebula.jl?branch=master)
+[![codecov.io](http://codecov.io/github/Nebula-GKI/Nebula.jl/coverage.svg?branch=master)](http://codecov.io/github/Nebula-GKI/Nebula.jl?branch=master)
 
 A platform for application development that emphasizes:
 
